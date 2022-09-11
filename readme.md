@@ -15,16 +15,16 @@
 ***
 ## Description
 
-This project [Law Firm Home Page]() was built using Semantic HTML and CSS. My main goal while building this project was to learn basics of HTML tags & CSS classes.This project helped me in understanding more indetails concepts of flexbox and positions. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Law Firm Home Page](https://lawfirm-page.netlify.app/) was built using Semantic HTML and CSS. My main goal while building this project was to learn basics of HTML tags & CSS classes.This project helped me in understanding more indetails concepts of flexbox and positions. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://lawfirm-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/wmBs5y7jBhI)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Law-Home-Page)
 
 ***
 ### Built With 
@@ -63,19 +63,17 @@ This project [Law Firm Home Page]() was built using Semantic HTML and CSS. My ma
 <br>
 
 ### Checkout Portfolio & Other Projects
-<br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#law-firm-home-page)
